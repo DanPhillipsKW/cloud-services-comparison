@@ -1,21 +1,22 @@
 # Cloud Platform Guide
 
 <!-- Repository Badges -->
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202024-blue)](https://github.com/yourusername/cloud-platform-guide)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202024-blue)](https://github.com/danphillipskw/cloud-platform-guide)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
 
 <div align="center">
 
-![Cloud Platform Comparison](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMjAwIj48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iI2Y2ZjhmYSIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDUwLDYwKSI+PHBhdGggZD0iTSAwLDQwIEMgMCwxNy45IDE3LjksMCA0MCwwIEggMTQwIEMgMTYyLjEsMCAxODAsMTcuOSAxODAsNDAgQyAxODAsNjIuMSAxNjIuMSw4MCAxNDAsODAgSCA0MCBDIDE3LjksODAgMCw2Mi4xIDAsNDAiIGZpbGw9IiNGRjk5MDAiLz48cGF0aCBkPSJNIDIwMCw0MCBDIDIwMCwxNy45IDIxNy45LDAgMjQwLDAgSCAzNDAgQyAzNjIuMSwwIDM4MCwxNy45IDM4MCw0MCBDIDM4MCw2Mi4xIDM2Mi4xLDgwIDM0MCw4MCBIIDI0MCBDIDI3LjksODAgMjAwLDYyLjEgMjAwLDQwIiBmaWxsPSIjMDA4OUQ2Ii8+PHBhdGggZD0iTSA0MDAsNDAgQyA0MDAsMTcuOSA0MTcuOSwwIDQ0MCwwIEggNTQwIEMgNTYyLjEsMCA1ODAsMTcuOSA1ODAsNDAgQyA1ODAsNjIuMSA1NjIuMSw4MCA1NDAsODAgSCA0NDAgQyA0MTcuOSw4MCA0MDAsNjIuMSA0MDAsNDAiIGZpbGw9IiMzNEE4NTMiLz48cGF0aCBkPSJNIDYwMCw0MCBDIDYwMCwxNy45IDYxNy45LDAgNjQwLDAgSCA3NDAgQyA3NjIuMSwwIDc4MCwxNy45IDc4MCw0MCBDIDY4MCw2Mi4xIDc2Mi4xLDgwIDc0MCw4MCBIIDc0MCBDIDY5Ny45LDgwIDYwMCw2Mi4xIDYwMCw0MCIgZmlsbD0iI0M3NDYzNCIvPjwvZz48dGV4dCB4PSI0MDAiIHk9IjE4MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI0IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzI0MjkyZSI+Q2xvdWQgUGxhdGZvcm0gQ29tcGFyaXNvbiBHdWlkZTwvdGV4dD48L3N2Zz4=)
+# ☁️ Cloud Platform Guide ☁️
+## AWS vs Azure vs GCP vs OCI
 
 </div>
 
 *A cross-reference guide for AWS, Azure, GCP, and OCI services*
 
-📚 [Services](#service-comparison) | 
-📊 [Market Position](#market-position-as-of-april-2024) | 
-💡 [Differentiators](#key-differentiators) | 
+📚 [Services](#service-comparison) |
+📊 [Market Position](#market-position-as-of-april-2024) |
+💡 [Differentiators](#key-differentiators) |
 🤝 [Contributing](CONTRIBUTING.md)
 
 ## Version History
