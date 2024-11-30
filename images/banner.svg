@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <!-- Background -->
+  <rect width="800" height="200" fill="#f6f8fa"/>
+  
+  <!-- Cloud Icons -->
+  <g transform="translate(50,60)">
+    <!-- AWS Orange Cloud -->
+    <path d="M 0,40 C 0,17.9 17.9,0 40,0 H 140 C 162.1,0 180,17.9 180,40 C 180,62.1 162.1,80 140,80 H 40 C 17.9,80 0,62.1 0,40" fill="#FF9900"/>
+    
+    <!-- Azure Blue Cloud -->
+    <path d="M 200,40 C 200,17.9 217.9,0 240,0 H 340 C 362.1,0 380,17.9 380,40 C 380,62.1 362.1,80 340,80 H 240 C 217.9,80 200,62.1 200,40" fill="#0089D6"/>
+    
+    <!-- GCP Green Cloud -->
+    <path d="M 400,40 C 400,17.9 417.9,0 440,0 H 540 C 562.1,0 580,17.9 580,40 C 580,62.1 562.1,80 540,80 H 440 C 417.9,80 400,62.1 400,40" fill="#34A853"/>
+    
+    <!-- OCI Red Cloud -->
+    <path d="M 600,40 C 600,17.9 617.9,0 640,0 H 740 C 762.1,0 780,17.9 780,40 C 780,62.1 762.1,80 740,80 H 640 C 617.9,80 600,62.1 600,40" fill="#C74634"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#24292e">
+    Cloud Platform Comparison Guide
+  </text>
+</svg>
