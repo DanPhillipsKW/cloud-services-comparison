@@ -1,4 +1,4 @@
-# Cloud Platform Guide
+# Cloud Services Comparison
 
 <div align="center">
 
