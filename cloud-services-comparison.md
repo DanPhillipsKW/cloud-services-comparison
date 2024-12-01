@@ -22,6 +22,7 @@
 - Database Services
 - Networking Services
 - Security Services
+- AI and Machine Learning Services
 
 📊 [Market Position](#market-position)
 
@@ -104,6 +105,18 @@ This guide represents cloud services as of November 2024. Cloud providers contin
 | KMS | Key Vault | Cloud KMS | Key Management | Encryption key creation and management |
 | Shield | DDoS Protection | Cloud Armor | WAF | DDoS mitigation and application protection |
 | Security Hub | Security Center | Security Command | Cloud Guard | Centralized security management and monitoring |
+
+### 6. AI and Machine Learning Services
+| AWS | Azure | GCP | OCI | Description |
+|:---------|:----------|:---------|:---------|:------------|
+| SageMaker | Azure ML | Vertex AI | OCI ML | End-to-end ML platform |
+| Rekognition | Computer Vision | Vision AI | Vision | Image and video analysis |
+| Comprehend | Text Analytics | Natural Language | Language | Natural language processing |
+| Polly | Speech Services | Text-to-Speech | Speech | Text-to-speech service |
+| Lex | Bot Service | Dialogflow | Digital Assistant | Conversational AI |
+| Personalize | Personalizer | Recommendations AI | -- | Recommendation systems |
+| Textract | Form Recognizer | Document AI | Vision | Document processing |
+| Forecast | Forecasting | -- | -- | Time-series forecasting |
 
 ## Key Differentiators
 
