@@ -97,6 +97,7 @@ This guide represents cloud services as of November 2024. Cloud providers contin
 | CloudFront | CDN | Cloud CDN | CDN | Global content delivery with edge caching |
 | Direct Connect | ExpressRoute | Cloud Interconnect | FastConnect | Dedicated network connections to cloud resources |
 | API Gateway | API Management | Cloud Endpoints | API Gateway | Full lifecycle API management and security |
+| PrivateLink | Private Link | Private Service Connect | Service Gateway | Private connectivity to services without internet exposure |
 
 ### 5. Security Services
 | AWS | Azure | GCP | OCI | Description |
@@ -110,6 +111,7 @@ This guide represents cloud services as of November 2024. Cloud providers contin
 | AWS | Azure | GCP | OCI | Description |
 |:---------|:----------|:---------|:---------|:------------|
 | SageMaker | Azure ML | Vertex AI | OCI ML | End-to-end ML platform |
+| Bedrock | Azure OpenAI | Vertex AI | -- | Foundation model service |
 | Rekognition | Computer Vision | Vision AI | Vision | Image and video analysis |
 | Comprehend | Text Analytics | Natural Language | Language | Natural language processing |
 | Polly | Speech Services | Text-to-Speech | Speech | Text-to-speech service |
