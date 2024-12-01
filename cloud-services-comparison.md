@@ -9,7 +9,7 @@
 [![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://cloud.oracle.com/)
 
 ### Document Info
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202024-blue)](https://github.com/danphillipskw/cloud-platform-guide)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202024-blue)](https://github.com/danphillipskw/cloud-platform-guide)
 [![Study Guide](https://img.shields.io/badge/Type-Study%20Guide-green)](https://github.com/danphillipskw/cloud-platform-guide)
 [![Reference](https://img.shields.io/badge/Type-Reference-yellow)](https://github.com/danphillipskw/cloud-platform-guide)
 [![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)](https://github.com/danphillipskw/cloud-platform-guide)
