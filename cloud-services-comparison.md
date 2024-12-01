@@ -9,7 +9,7 @@
 [![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://cloud.oracle.com/)
 
 ### Document Info
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202024-blue)](https://github.com/DanPhillipsKW/cloud-services-comparison)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202024-blue)](https://github.com/DanPhillipsKW/cloud-services-comparison)
 [![Study Guide](https://img.shields.io/badge/Type-Study%20Guide-green)](https://github.com/DanPhillipsKW/cloud-services-comparison)
 [![Reference](https://img.shields.io/badge/Type-Reference-yellow)](https://github.com/DanPhillipsKW/cloud-services-comparison)
 [![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)](https://github.com/DanPhillipsKW/cloud-services-comparison)
@@ -23,16 +23,16 @@
 </div>
 
 ## Table of Contents
-📚 [Services](#service-comparison) | 
-📊 [Market Position](#market-position) | 
-💡 [Differentiators](#key-differentiators) | 
+📚 [Services](#service-comparison) |
+📊 [Market Position](#market-position) |
+💡 [Differentiators](#key-differentiators) |
 🤝 [Contributing](https://github.com/DanPhillipsKW/cloud-services-comparison/blob/main/CONTRIBUTING.md)
 
 ## Version History
 
 | Version | Date | Changes |
 |:--------|:-----|:---------|
-| 1.0 | April 2024 | - Initial release with AWS, Azure, GCP, and OCI comparison |
+| 1.0 | ANovember 2024 | - Initial release with AWS, Azure, GCP, and OCI comparison |
 |     |            | - Added market share data and key differentiators |
 |     |            | - Included unique strengths for each platform |
 
