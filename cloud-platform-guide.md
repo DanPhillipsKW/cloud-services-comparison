@@ -1,22 +1,30 @@
 # Cloud Platform Guide
 
-<!-- Repository Badges -->
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202024-blue)](https://github.com/danphillipskw/cloud-platform-guide)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
-
 <div align="center">
 
-# ☁️ Cloud Platform Guide ☁️
-## AWS vs Azure vs GCP vs OCI
+### Cloud Providers
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://cloud.oracle.com/)
+
+### Document Info
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202024-blue)](https://github.com/yourusername/cloud-platform-guide)
+[![Study Guide](https://img.shields.io/badge/Type-Study%20Guide-green)](https://github.com/yourusername/cloud-platform-guide)
+[![Reference](https://img.shields.io/badge/Type-Reference-yellow)](https://github.com/yourusername/cloud-platform-guide)
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)](https://github.com/yourusername/cloud-platform-guide)
+
+### Repository
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
+[![Pull Requests](https://img.shields.io/badge/PRs-Welcome-blueviolet.svg)](CONTRIBUTING.md)
+[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/yourusername/cloud-platform-guide)
 
 </div>
 
-*A cross-reference guide for AWS, Azure, GCP, and OCI services*
-
-📚 [Services](#service-comparison) |
-📊 [Market Position](#market-position-as-of-april-2024) |
-💡 [Differentiators](#key-differentiators) |
+📚 [Services](#service-comparison) | 
+📊 [Market Position](#market-position) | 
+💡 [Differentiators](#key-differentiators) | 
 🤝 [Contributing](CONTRIBUTING.md)
 
 ## Version History
@@ -33,7 +41,7 @@ This guide represents cloud services as of April 2024. Cloud providers continuou
 - Consider this a reference point rather than current state
 - Submit issues or pull requests for updates
 
-## Market Position (as of April 2024)
+## Market Position
 - AWS: Market leader in public cloud, strongest enterprise presence
 - Azure: Second largest provider, strong Microsoft ecosystem integration
 - GCP: Growing rapidly, particularly strong in AI/ML and analytics
