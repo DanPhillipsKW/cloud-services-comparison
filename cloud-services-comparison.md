@@ -9,16 +9,16 @@
 [![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://cloud.oracle.com/)
 
 ### Document Info
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202024-blue)](https://github.com/danphillipskw/cloud-platform-guide)
-[![Study Guide](https://img.shields.io/badge/Type-Study%20Guide-green)](https://github.com/danphillipskw/cloud-platform-guide)
-[![Reference](https://img.shields.io/badge/Type-Reference-yellow)](https://github.com/danphillipskw/cloud-platform-guide)
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)](https://github.com/danphillipskw/cloud-platform-guide)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202024-blue)](https://github.com/danphillipskw/cloud-services-comparison)
+[![Study Guide](https://img.shields.io/badge/Type-Study%20Guide-green)](https://github.com/danphillipskw/cloud-services-comparison)
+[![Reference](https://img.shields.io/badge/Type-Reference-yellow)](https://github.com/danphillipskw/cloud-services-comparison)
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)](https://github.com/danphillipskw/cloud-services-comparison)
 
 ### Repository
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
 [![Pull Requests](https://img.shields.io/badge/PRs-Welcome-blueviolet.svg)](CONTRIBUTING.md)
-[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/danphillipskw/cloud-platform-guide)
+[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/danphillipskw/cloud-services-comparison)
 
 </div>
 
